@@ -28,8 +28,12 @@ Button_0DF399B1_1DC9_01B4_41A6_72DB69ED65C2.label = Espaço
 Button_0DF399B1_1DC9_01B4_41A6_72DB69ED65C2_mobile.label = Espaço
 Button_0DF549B1_1DC9_01B4_41BA_85E3768ED966.label = Cozinha
 Button_0DF549B1_1DC9_01B4_41BA_85E3768ED966_mobile.label = Cozinha
+Button_2B520163_2628_1F03_41BF_077FBDF0B795.label = Calendário de Reservas
+Button_3027A804_2668_6D05_4180_04023A9AEAF0_mobile.label = Informações
 Button_317D91B4_1FF9_01BC_41B4_3CD8E9F8188F.label = Ione: (38) 99906-1223 
 Button_317D91B4_1FF9_01BC_41B4_3CD8E9F8188F_mobile.label = Ione: (38) 99906-1223 
+Button_32A5C27C_2668_7D05_41B6_874407C4D6AE_mobile.label = Calendário de Reservas
+Button_32D4FBCA_2628_6302_41A5_60E17A80D082.label = Calendário de Reservas
 Button_33A85C99_1FCB_0674_41BB_8836F49835C5.label = Juca: (38) 99963-1279
 Button_33A85C99_1FCB_0674_41BB_8836F49835C5_mobile.label = Juca: (38) 99963-1279
 Button_37F88316_1FC9_027C_41A7_928EE7CDD77F.label = WhatsApp: (38) 99936-1223
@@ -37,7 +41,7 @@ Button_37F88316_1FC9_027C_41A7_928EE7CDD77F_mobile.label = WhatsApp: (38) 99936
 Button_3CBC82AB_20E3_A3A2_41BF_E765F2FD1EAB.label = Informações
 Button_3CBC82AB_20E3_A3A2_41BF_E765F2FD1EAB_mobile.label = Informações
 Button_3E1B583D_20FE_6EA6_41B8_97188C415DE4.label = Informações
-Button_3E1B583D_20FE_6EA6_41B8_97188C415DE4_mobile.label = Informações
+Button_3E1B583D_20FE_6EA6_41B8_97188C415DE4_mobile.label = Calendário de Reservas
 
 ### Multiline Text
 HTMLText_0DF279B1_1DC9_01B4_41A6_AAD64E022DCE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
@@ -152,4 +156,8 @@ LinkBehaviour_33C6C092_1FD7_3E74_41AF_077AF3C242B8.source = tel:038999361223
 PopupWebFrameBehaviour_00DC5843_20E6_AEE1_41BD_63554453AB8F.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15111.40108416447!2d-44.4258735!3d-18.7602239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa8630e510f5db5%3A0x13773ac3c18df8bb!2sEspa%C3%A7o%20Rep%20e%20Tilt!5e0!3m2!1spt-BR!2sbr!4v1701355613340!5m2!1spt-BR!2sbr
 PopupWebFrameBehaviour_00DE7843_20E6_AEE1_41A4_9C9998E3FC86.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15111.40108416447!2d-44.4258735!3d-18.7602239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa8630e510f5db5%3A0x13773ac3c18df8bb!2sEspa%C3%A7o%20Rep%20e%20Tilt!5e0!3m2!1spt-BR!2sbr!4v1701355613340!5m2!1spt-BR!2sbr
 PopupWebFrameBehaviour_297B90D7_1FC9_FFFC_41B3_39BA43843F1C.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15111.40108416447!2d-44.4258735!3d-18.7602239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa8630e510f5db5%3A0x13773ac3c18df8bb!2sEspa%C3%A7o%20Rep%20e%20Tilt!5e0!3m2!1spt-BR!2sbr!4v1701355613340!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_29C48B8B_2638_2302_41B6_6B280840AE17.url = https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTabs=0&showCalendars=0&showTz=0&src=aG9oMWhycWp0ZjdvNGM5MXNwZzQ1a3NpZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB
 PopupWebFrameBehaviour_2E8865DC_1FC9_01EC_4194_705941339204.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15111.40108416447!2d-44.4258735!3d-18.7602239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa8630e510f5db5%3A0x13773ac3c18df8bb!2sEspa%C3%A7o%20Rep%20e%20Tilt!5e0!3m2!1spt-BR!2sbr!4v1701355613340!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_3094DCDD_2668_2507_41BC_2A70D472D8CB.url = https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTabs=0&showCalendars=0&showTz=0&src=aG9oMWhycWp0ZjdvNGM5MXNwZzQ1a3NpZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB
+PopupWebFrameBehaviour_31C13A49_2668_6D0F_41AA_17C31FB40AB8.url = https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTabs=0&showCalendars=0&showTz=0&src=aG9oMWhycWp0ZjdvNGM5MXNwZzQ1a3NpZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB
+PopupWebFrameBehaviour_33C85F77_2628_2303_41B5_59B541ADFF85.url = https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTabs=0&showCalendars=0&showTz=0&src=aG9oMWhycWp0ZjdvNGM5MXNwZzQ1a3NpZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB
