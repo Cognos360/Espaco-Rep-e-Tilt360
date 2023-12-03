@@ -36,8 +36,8 @@ Button_32A5C27C_2668_7D05_41B6_874407C4D6AE_mobile.label = Calendário de Reserv
 Button_32D4FBCA_2628_6302_41A5_60E17A80D082.label = Calendário de Reservas
 Button_33A85C99_1FCB_0674_41BB_8836F49835C5.label = Juca: (38) 99963-1279
 Button_33A85C99_1FCB_0674_41BB_8836F49835C5_mobile.label = Juca: (38) 99963-1279
-Button_37F88316_1FC9_027C_41A7_928EE7CDD77F.label = WhatsApp: (38) 99936-1223
-Button_37F88316_1FC9_027C_41A7_928EE7CDD77F_mobile.label = WhatsApp: (38) 99936-1223
+Button_37F88316_1FC9_027C_41A7_928EE7CDD77F.label = WhatsApp: (38) 99906-1223
+Button_37F88316_1FC9_027C_41A7_928EE7CDD77F_mobile.label = WhatsApp: (38) 99906-1223
 Button_3CBC82AB_20E3_A3A2_41BF_E765F2FD1EAB.label = Informações
 Button_3CBC82AB_20E3_A3A2_41BF_E765F2FD1EAB_mobile.label = Informações
 Button_3E1B583D_20FE_6EA6_41B8_97188C415DE4.label = Informações
@@ -148,9 +148,9 @@ photo_35070FE2_2544_86E3_41B7_42FA67ADC86D.label = 362395727_281439654571047_903
 
 ### URL
 LinkBehaviour_00DCB843_20E6_AEE1_41A3_CB8DA04E999E.source = tel:038999631279
-LinkBehaviour_00DCE853_20E6_AEE2_4195_D0F93DF654CD.source = https://api.whatsapp.com/send?phone=5538999361223&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA.%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_00DCE853_20E6_AEE2_4195_D0F93DF654CD.source = https://api.whatsapp.com/send?phone=5538999061223&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360.
 LinkBehaviour_00DCF853_20E6_AEE2_41B4_8896FA636C80.source = tel:038999361223
-LinkBehaviour_2C0176B4_1FC9_03BD_41B1_1DCA84842918.source = https://api.whatsapp.com/send?phone=5538999361223&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA.%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_2C0176B4_1FC9_03BD_41B1_1DCA84842918.source = https://api.whatsapp.com/send?phone=5538999061223&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360.
 LinkBehaviour_32CD8264_1FCB_02DC_41AD_157B88FD27E5.source = tel:038999631279
 LinkBehaviour_33C6C092_1FD7_3E74_41AF_077AF3C242B8.source = tel:038999361223
 PopupWebFrameBehaviour_00DC5843_20E6_AEE1_41BD_63554453AB8F.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15111.40108416447!2d-44.4258735!3d-18.7602239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa8630e510f5db5%3A0x13773ac3c18df8bb!2sEspa%C3%A7o%20Rep%20e%20Tilt!5e0!3m2!1spt-BR!2sbr!4v1701355613340!5m2!1spt-BR!2sbr
